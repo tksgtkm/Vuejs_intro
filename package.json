@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "vue": "^3.2.24"
+  },
+  "name": "vuejs_intro",
+  "description": "Vue.js 自習用リポジトリ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tksgtkm/Vuejs_intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tksgtkm/Vuejs_intro/issues"
+  },
+  "homepage": "https://github.com/tksgtkm/Vuejs_intro#readme"
+}
